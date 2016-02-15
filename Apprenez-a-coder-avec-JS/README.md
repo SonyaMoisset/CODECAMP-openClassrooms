@@ -29,7 +29,9 @@ Pour découvrir le code, ce cours utilise JavaScript, le langage de programmatio
 - Finished Ajoutez des conditions in Partie 1 - Ecrivez vos premieres lignes de code
 - Finished Repetez des instructions in Partie 1 - Ecrivez vos premieres lignes de code
 - Finished Partie 1 - Ecrivez vos premieres lignes de code
-
 - Finished Modularisez votre code grace aux fonctions in Partie 2 - Evoluez vers des programmes plus complexes
 - Finished Manipulez les chaines de caracteres in Partie 2 - Evoluez vers des programmes plus complexes
 - Finished Creez votre premiez objets in Partie 2 - Evoluez vers des programmes plus complexes
+- Finished Trop classe, la POO ! in Partie 2 - Evoluez vers des programmes plus complexes
+- Finished Stockez vos donnees dans des tableaux in Partie 2 - Evoluez vers des programmes plus complexes
+- Finished Conclusion et perspectives in Partie 2 - Evoluez vers des programmes plus complexes
