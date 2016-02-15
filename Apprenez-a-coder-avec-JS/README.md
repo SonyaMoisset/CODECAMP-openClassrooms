@@ -35,3 +35,4 @@ Pour découvrir le code, ce cours utilise JavaScript, le langage de programmatio
 - Finished Trop classe, la POO ! in Partie 2 - Evoluez vers des programmes plus complexes
 - Finished Stockez vos donnees dans des tableaux in Partie 2 - Evoluez vers des programmes plus complexes
 - Finished Conclusion et perspectives in Partie 2 - Evoluez vers des programmes plus complexes
+- Finished Partie 2 - Evoluez vers des programmes plus complexes
