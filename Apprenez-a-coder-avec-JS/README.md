@@ -19,3 +19,5 @@ Pour découvrir le code, ce cours utilise JavaScript, le langage de programmatio
 - Finished 1, 2, 3, codez ! in Partie 1 - Ecrivez vos premiere lignes de code
 - Finished Jouez avec les variables in Partie 1 - Ecrivez vos premiere lignes de code
 - Finished Ajoutez des conditions in Partie 1 - Ecrivez vos premiere lignes de code
+- Finished Repetez des instructions in Partie 1 - Ecrivez vos premiere lignes de code
+- Finished Partie 1 - Ecrivez vos premiere lignes de code
