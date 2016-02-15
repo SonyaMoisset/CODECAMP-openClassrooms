@@ -17,3 +17,5 @@ Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages
 
 ##### 16/02/2016
 - Finished Creer des liens in Partie 1 - Les bases de HTML
+- Finished Les images in Partie 1 - Les bases de HTML
+- Finished Partue 1 - Les bases de HTML
