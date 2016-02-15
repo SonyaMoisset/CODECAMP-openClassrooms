@@ -1,1 +1,4 @@
-# CODECAMP-openClassrooms
+# openClassrooms
+
+## Courses
+- Apprenez a coder avec JavaScript
