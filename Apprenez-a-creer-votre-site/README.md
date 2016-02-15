@@ -14,3 +14,6 @@ Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages
 - Finished Comment fait-on pour creer des sites web? in Partie 1 - Les bases de HTML
 - Finished Votre premiere page web en HTML in Partie 1 - Les bases de HTML
 - Finished Organiser son texte in Partie 1 - Les bases de HTML
+
+##### 16/02/2016
+- Finished Creer des liens in Partie 1 - Les bases de HTML
