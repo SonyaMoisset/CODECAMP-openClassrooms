@@ -9,6 +9,13 @@ Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages
 4. Creer des liens
 5. Les images
 
+## Partie 2 - Les joies de la mise en forme avec CSS
+1. Mettre en place le CSS
+2. Formatage du texte
+3. La couleur et le fond
+4. Les bordures et les ombres
+5. Creation d'apparences dynamiques
+
 #### Updates
 ##### 15/02/2016
 - Finished Comment fait-on pour creer des sites web? in Partie 1 - Les bases de HTML
@@ -18,4 +25,7 @@ Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages
 ##### 16/02/2016
 - Finished Creer des liens in Partie 1 - Les bases de HTML
 - Finished Les images in Partie 1 - Les bases de HTML
-- Finished Partue 1 - Les bases de HTML
+- Finished Partie 1 - Les bases de HTML
+
+##### 17/02/2016
+- Finished Mettre en place le CSS in Partie 2 - Les joies de la mise en forme avec CSS
