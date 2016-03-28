@@ -30,6 +30,11 @@ Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages
 4. Le reponsive design avec les Media Queries
 5. Aller plus loin
 
+## Annexes
+1. Envoyez votre site sur le Web
+2. Memento des balises HTML
+3. Memento des proprietes CSS
+
 #### Updates
 ##### 15/02/2016
 - Finished Comment fait-on pour creer des sites web? in Partie 1 - Les bases de HTML
@@ -48,3 +53,4 @@ Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages
 - Finished Partie 2 - Les joies de la mise en forme avec CSS
 - Finished Partie 3 - Mise en page du site
 - Finished Partie 4 - Fonctionnalites evoluees
+- Finished Annexes
