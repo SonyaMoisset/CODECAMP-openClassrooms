@@ -23,6 +23,13 @@ Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages
 4. Quelques autres techniques de mise en page
 5. TP: creation d'un site pas a pas
 
+## Partie 4 - Fonctionnalites evoluees
+1. Les tableaux
+2. Les formulaires
+3. La video et l'audio
+4. Le reponsive design avec les Media Queries
+5. Aller plus loin
+
 #### Updates
 ##### 15/02/2016
 - Finished Comment fait-on pour creer des sites web? in Partie 1 - Les bases de HTML
@@ -40,3 +47,4 @@ Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages
 ##### 28/02/2016
 - Finished Partie 2 - Les joies de la mise en forme avec CSS
 - Finished Partie 3 - Mise en page du site
+- Finished Partie 4 - Fonctionnalites evoluees
