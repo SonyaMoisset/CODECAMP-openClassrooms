@@ -11,6 +11,12 @@
 1. Installation et configuration
 2. Administration
 
+## Partie 2 - Organisez votre site
+1. Articles et pages
+2. Themes, menus et widgets
+3. Extensions et editeur
+
 #### Updates
 ##### 28/03/2016
--Finished Partie 1 - Mettez en place WordPress
+- Finished Partie 1 - Mettez en place WordPress
+- Finished Partie 2 - Organisez votre site
