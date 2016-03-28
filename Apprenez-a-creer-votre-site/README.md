@@ -16,6 +16,13 @@ Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages
 4. Les bordures et les ombres
 5. Creation d'apparences dynamiques
 
+## Partie 3 - Mise en page du site
+1. Structurer sa page
+2. Le modele des boites
+3. La mise en page avec Flexbox
+4. Quelques autres techniques de mise en page
+5. TP: creation d'un site pas a pas
+
 #### Updates
 ##### 15/02/2016
 - Finished Comment fait-on pour creer des sites web? in Partie 1 - Les bases de HTML
@@ -29,3 +36,7 @@ Dans ce cours, vous apprendrez comment utiliser HTML5 et CSS3, les deux langages
 
 ##### 17/02/2016
 - Finished Mettre en place le CSS in Partie 2 - Les joies de la mise en forme avec CSS
+
+##### 28/02/2016
+- Finished Partie 2 - Les joies de la mise en forme avec CSS
+- Finished Partie 3 - Mise en page du site
