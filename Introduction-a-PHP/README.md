@@ -6,6 +6,7 @@
 3. Premiers pas avec PHP
 4. Inclure des portions de page
 5. Les variables
+6. Les conditions
 
 #### Updates
 ##### 29/03/2016
