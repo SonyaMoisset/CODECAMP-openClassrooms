@@ -20,3 +20,4 @@ Objectifs pédagogiques :
 #### Updates
 ##### 28/03/2016
 - Finished Partie 1 - Qu'est-ce qu'un CMS?
+- Finished Partie 2 - Comment choisir son CMS?
