@@ -7,6 +7,8 @@
 4. Inclure des portions de page
 5. Les variables
 6. Les conditions
+7. Les boucles
+8. Les fonctions
 
 #### Updates
-##### 29/03/2016
+##### 30/03/2016
