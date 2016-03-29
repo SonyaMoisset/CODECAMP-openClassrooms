@@ -9,6 +9,7 @@
 6. Les conditions
 7. Les boucles
 8. Les fonctions
+9. Les tableaux
 
 #### Updates
 ##### 30/03/2016
