@@ -11,5 +11,8 @@
 8. Les fonctions
 9. Les tableaux
 
+## Partie 2 - Transmettre des donnees de page en page
+1. Transmettre des donnees avec l'URL
+
 #### Updates
 ##### 30/03/2016
