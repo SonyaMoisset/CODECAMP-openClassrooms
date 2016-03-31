@@ -15,6 +15,7 @@
 1. Transmettre des donnees avec l'URL
 2. Transmettre des donnees avec les formulaires
 3. TP: page protegee par mot de passe
+4. Variables superglobales, sessions et cookies
 
 #### Updates
 ##### 30/03/2016
