@@ -14,6 +14,7 @@
 ## Partie 2 - Transmettre des donnees de page en page
 1. Transmettre des donnees avec l'URL
 2. Transmettre des donnees avec les formulaires
+3. TP: page protegee par mot de passe
 
 #### Updates
 ##### 30/03/2016
