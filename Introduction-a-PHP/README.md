@@ -16,6 +16,7 @@
 2. Transmettre des donnees avec les formulaires
 3. TP: page protegee par mot de passe
 4. Variables superglobales, sessions et cookies
+5. Lire et ecrire dans un fichier
 
 #### Updates
 ##### 30/03/2016
