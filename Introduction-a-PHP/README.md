@@ -20,6 +20,7 @@
 
 ## Partie 3 - Stocker des informations dans une base de donnees
 1. Presentation des bases de donnees
+2. phpMyAdmin
 
 #### Updates
 ##### 30/03/2016
