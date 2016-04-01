@@ -18,5 +18,12 @@
 4. Variables superglobales, sessions et cookies
 5. Lire et ecrire dans un fichier
 
+## Partie 3 - Stocker des informations dans une base de donnees
+1. Presentation des bases de donnees
+
 #### Updates
 ##### 30/03/2016
+- Finished Partie Partie 1 - Les bases de PHP
+
+##### 31/03/2016
+- Finished Partie 2 - Transmettre des donnees de page en page
