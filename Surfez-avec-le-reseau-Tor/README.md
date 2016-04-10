@@ -10,7 +10,12 @@
 2. Le .onion, ou comment garantir des communications chiffrees de bout en bout!
 3. Autres avantages de Tor
 
+## Partie 3 = Utilisez Tor
+1. Installation de Tor
+2. Le Web profond
+
 #### Updates
 ##### 10/04/2016
 - Finished Partie 1 - Sur Internet, vous en dites plus que vous ne croyez!
 - Finished Partie 2 - Le reseau Tor, solution au probleme de vie privee sur Internet
+- Finished Partie 3 - Utilisez Tor
